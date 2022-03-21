@@ -1,2 +1,2 @@
-# BudgetBuddy
-Money mindfulness made easy.
+# Budget Buddy
+***Money mindfulness made easy.***
